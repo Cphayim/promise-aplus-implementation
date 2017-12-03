@@ -1,0 +1,14 @@
+{
+  "name": "promise-aplus-implementation",
+  "version": "1.0.0",
+  "description": "Promise/A+ 规范实现",
+  "main": "promise.js",
+  "scripts": {
+    "test": "node ./node_modules/promises-aplus-tests/lib/cli.js promise.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
