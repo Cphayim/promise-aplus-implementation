@@ -175,7 +175,7 @@ Promise.prototype.then = function (onResolved, onRejected) {
 }
 
 /**
- * promises-aplus-tests obj
+ * promises-aplus-tests
  */
 Promise.deferred = function () {
   var dfd = {}
