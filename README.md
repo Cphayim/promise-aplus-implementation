@@ -12,8 +12,6 @@
 └── promise.js
 ```
 
-注：简化版存在一些 bug，但仍然符合大部分使用场景
-
 ## 如何测试？
 
 `package.json` 依赖中包含了 Promise/A+ 的测试套件 [promises-tests](https://github.com/promises-aplus/promises-tests)
